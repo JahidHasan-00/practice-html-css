@@ -1,0 +1,36 @@
+
+*{
+    /* margin: 0; */
+    padding: 0;
+}
+body{
+    background-color: rgba(167, 167, 165, 0.941);
+}
+.name{
+    text-decoration: underline;
+    color: yellow;
+}
+#bangla{
+    text-decoration: overline;
+    color: aqua;
+}
+h5{
+    text-decoration: line-through;
+    color: rgba(4, 251, 0, 0.832);
+}
+.p-one{
+    text-decoration: underline wavy red;
+}
+.p-two{
+    text-decoration: underline dotted tomato;
+}
+span{
+    border: 2px solid gold;
+    border-radius: 5px;
+}
+div{
+    text-align: center;
+}
+img{
+    width: 400px;
+}
